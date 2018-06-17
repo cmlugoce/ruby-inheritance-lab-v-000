@@ -1,6 +1,6 @@
 class User 
 
-attr_accessor :firstname, :lastname
+attr_accessor :first_name, :last_name
 
 
 end 
